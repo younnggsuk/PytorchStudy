@@ -10,3 +10,5 @@ Pytorch를 공부하고 정리한 레포입니다.
 - [PYTORCH가 무엇인가요?](./tutorials/tensor_tutorial.ipynb)
 - [AUTOGRAD: 자동 미분](./tutorials/autograd_tutorial.ipynb)
 - [신경망(NEURAL NETWORKS)](./tutorials/neural_networks_tutorial.ipynb)
+- [신경망(NEURAL NETWORKS)](./tutorials/neural_networks_tutorial.ipynb)
+- [분류기(CLASSIFIER) 학습하기](./tutorials/cifar10_tutorial.ipynb)
