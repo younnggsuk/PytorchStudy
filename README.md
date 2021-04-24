@@ -16,3 +16,6 @@ Pytorch를 공부하고 정리한 레포입니다.
 - [Tensors](./pytorch_with_examples/tensors.ipynb)
 - [Autograd](./pytorch_with_examples/autograd.ipynb)
 - [nn 모듈](./pytorch_with_examples/pytorch-nn.ipynb)
+
+TORCH.NN 이 실제로 무엇인가요?
+- [nn_tutorial](./nn_tutorial/nn_tutorial.ipynb)
