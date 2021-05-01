@@ -18,3 +18,4 @@ Pytorch를 공부하고 정리한 레포입니다.
 - [TORCH.NN 이 실제로 무엇인가요?](./nn_tutorial/nn_tutorial.ipynb)
 - [TENSORBOARD로 모델, 데이터, 학습 시각화하기](./tensorboard_tutorial/tensorboard_tutorial.ipynb)
 - [TORCHVISION 객체 검출 미세조정(FINETUNING) 튜토리얼](./torchvision_tutorial/torchvision_tutorial.ipynb)
+- [컴퓨터 비전(VISION)을 위한 전이학습(TRANSFER LEARNING)](./transfer_learning/transfer_learning_tutorial.ipynb)
